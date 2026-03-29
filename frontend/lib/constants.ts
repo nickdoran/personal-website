@@ -72,8 +72,7 @@ export const EXPERIENCE: Experience[] = [
         period: "2025 — Present",
         description: [
             "Founded a web development agency serving local businesses in the Greater Lansing area",
-            "Design, develop, and deploy custom websites optimized for performance and conversions",
-            "Manage end-to-end client relationships from discovery to launch and ongoing maintenance",
+            "Currently in the outreach phase",
         ],
         current: true,
     },
